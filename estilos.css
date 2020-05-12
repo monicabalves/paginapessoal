@@ -1,0 +1,38 @@
+body{
+    background-image: url(https://brancopapeldeparede.fbitsstatic.net/img/p/papel-de-parede-degrade-azul-branco-63265/230245.jpg?w=450&h=450&v=no-change);
+    background-size: auto 100vh;
+    font-family: Arial;
+    height: 100vh;
+}
+
+.menu{
+    background-color: white;
+}
+
+.menu li{
+    list-style: none;
+}
+
+.menu ul{
+    display: flex;
+    justify-content: space-around;
+}
+
+a {
+    color: teal;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.site-subtittle,
+.site-tittle {
+    text-align: center;
+    color: whitesmoke;
+}
+
+.site-subtittle{
+    font-style: italic;
+}
